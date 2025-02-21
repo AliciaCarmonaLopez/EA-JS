@@ -42,3 +42,7 @@ Ejecutar JS
 ```
 node main.js
 ```
+
+## Ejercicio
+Me funciona todo, para hacerlo solo he utilizado los ejemplos que puso el Roc en las cuatro carpeta, junto con lo que aprendí de los vídeos de preparación del seminario.
+El vídeo lo he añadido aquí directamente en el github, espero que se pueda reproducir.
