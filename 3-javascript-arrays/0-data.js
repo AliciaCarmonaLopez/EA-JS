@@ -32,4 +32,4 @@ const students = [
   },
 ];
 
-export { students };
+export { students }; // per poder ser utilitzat desde altre fitxer

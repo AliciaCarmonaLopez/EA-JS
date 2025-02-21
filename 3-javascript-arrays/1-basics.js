@@ -11,7 +11,7 @@ const numbersArray2 = [5, 7, ...numbersArray]
 console.log(numbersArray2); // [ 5, 7, 20, 30, 50, 60 ]
 
 // sclice
-const numbersArray3 = [...numbersArray.slice(0, 2)]
+const numbersArray3 = [...numbersArray.slice(0, 2)] // (0 posicio a la que començo, 2 nombre d'elements que tallo)
 console.log(numbersArray3); // [ 20, 30 ]
 
 // add to the middle using slice
